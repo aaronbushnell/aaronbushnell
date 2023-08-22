@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there, I'm Aaron 👋
 
-<!--
-**aaronbushnell/aaronbushnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Born and raised in the midwest and notorious [golden retriever hoarder](https://aaronmbushnell.com/images/goldens.png).
 
-Here are some ideas to get you started:
+### Where to find me 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 [**My website**](https://aaronmbushnell.com)
+- 🐘 [**Mastodon**](https://mastodon.social/@aaronbushnell)
+- 👾 [**Twitch**](https://www.twitch.tv/aaronbushnell)
+- 🎧 [**Spotify**](https://open.spotify.com/user/aaronmbushnell)
+- 🗑️ [**Twitter**](https://twitter.com/aaronbushnell)
+
+### Programming interests 💡
+
+- PHP ([Laravel](https://laravel.com), [Yii](https://www.yiiframework.com/))
+- JavaScript ([React](https://react.dev/), [Next.js](https://nextjs.org/), [Alpine.js](https://alpinejs.dev/))
+- [Tailwind](https://tailwindcss.com/)
+- HTML + CSS
+- [Craft CMS](https://craftcms.com)
+- [SwiftUI & iOS](https://developer.apple.com/xcode/swiftui/)
+
+### Personal interests 🪴
+
+- Cooking
+- Podcasts
+- Movies
+- Writing

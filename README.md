@@ -16,7 +16,7 @@ Born and raised in the midwest and notorious [golden retriever hoarder](https://
 - JavaScript ([React](https://react.dev/), [Next.js](https://nextjs.org/), [Alpine.js](https://alpinejs.dev/))
 - [Tailwind](https://tailwindcss.com/)
 - HTML + CSS
-- [Craft CMS](https://craftcms.com)
+- [Craft CMS](https://craftcms.com) and [Statamic](https://statamic.com)
 - [SwiftUI & iOS](https://developer.apple.com/xcode/swiftui/)
 
 ### Personal interests 🪴

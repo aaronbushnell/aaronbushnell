@@ -11,13 +11,20 @@ Born and raised in the midwest and notorious [golden retriever hoarder](https://
 - 🎧 [**Spotify**](https://open.spotify.com/user/aaronmbushnell)
 - 🗑️ [**Twitter**](https://twitter.com/aaronbushnell)
 
+### My apps 👨‍💻
+- [Cicolator](https://featherhour.com/cicolator/): Makes counting calories easy so you don't have to eliminate your favorite foods and meals. Free, no sign-ups, no ads, no subscription required.
+- [Pickaday](https://pickadayapp.com/): Makes agreeing on a date and time for your attendees easier! Always free and no sign-up required.
+
 ### Programming interests 💡
 
-- PHP ([Laravel](https://laravel.com), [Yii](https://www.yiiframework.com/))
-- JavaScript ([React](https://react.dev/), [Next.js](https://nextjs.org/), [Alpine.js](https://alpinejs.dev/))
+- PHP, JavaScript, good ol' HTML & CSS
+- [Laravel](https://laravel.com)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [Alpine.js](https://alpinejs.dev/)
 - [Tailwind](https://tailwindcss.com/)
-- HTML + CSS
-- [Craft CMS](https://craftcms.com) and [Statamic](https://statamic.com)
+- [Craft CMS](https://craftcms.com)
+- [Statamic](https://statamic.com)
 - [SwiftUI & iOS](https://developer.apple.com/xcode/swiftui/)
 
 ### Personal interests 🪴

@@ -5,8 +5,10 @@ Born and raised in the midwest and notorious [golden retriever hoarder](https://
 ### Where to find me 🔍
 
 - 👨‍💻 [**My website**](https://aaronmbushnell.com)
+- 🪶 [**Featherhour**](https://featherhour.com/)
 - 🐘 [**Mastodon**](https://mastodon.social/@aaronbushnell)
 - 🦋 [**Bluesky**](https://bsky.app/profile/aaronmbushnell.com)
+- 🎬 [**Letterboxd**](https://letterboxd.com/aaronbushnell/)
 - 👾 [**Twitch**](https://www.twitch.tv/aaronbushnell)
 - 🎧 [**Spotify**](https://open.spotify.com/user/aaronmbushnell)
 - 🗑️ [**Twitter**](https://twitter.com/aaronbushnell)

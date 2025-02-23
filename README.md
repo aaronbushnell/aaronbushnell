@@ -1,6 +1,6 @@
 ## Hi there, I'm Aaron 👋
 
-Born and raised in the midwest and notorious [golden retriever hoarder](https://aaronmbushnell.com/images/goldens.webp).
+Born and raised in the midwest and notorious [golden retriever hoarder](https://aaronmbushnell.com/storage/goldens.webp).
 
 ### Where to find me 🔍
 
